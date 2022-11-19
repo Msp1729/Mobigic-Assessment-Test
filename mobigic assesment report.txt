@@ -1,7 +1,8 @@
 ==============Mobigic Assesment========17 nov- 19 nov
 
 1.RestApi has developed as per the Requirments.
-2.User Can Register and get login.
-3.After login he will renderd to the Uploloaded file Page.
+2.User Can Register and get logged in.
+3.After login first he will renderd to the Uploloaded file Page.
 4.He/she can Delete the file,Upload the file.
-5.I have done the most of the things providing some pics with it if application doesent support due to some envoirmental conditions.   
+5.I have done the most of the things providing some pics with it if application doesent support due to some envoirmental conditions. 
+6.Admin will manage the website.he can see all the user details
